@@ -1,1 +1,1 @@
-# novel-algorithm-for-Prediction-of-Module-Temperature-of-HIT-Photovoltaic-Technology-using-ANN
+# novel-algorithm-for-prediction-of-module-temperature-of-HIT-photovoltaic-technology-using-ANN
